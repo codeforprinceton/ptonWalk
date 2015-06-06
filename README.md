@@ -8,6 +8,8 @@ The goal of this repo to answer a basic question from the Mayor:
 <i> Not sure if all the info would be ready in time to make this work, but I'd love to be able to say that x percentage of residents live within a 10 minute walk of a park or open space. Is it possible to build a program using the GIS data that would calculate that? If so, that would be a great planning tool! </i>
 
 ## Ideas for Data Usage
+We're using [TEXAS A&M GEOSERVICES for geocoding](https://geoservices.tamu.edu)
+
 Suggest some!
 
 Project Doc (editable) - https://docs.google.com/document/d/1__fNmBh4hsyK-LsRpkj0DrmFNUGX8-QHwIp7VwVHMow/edit
