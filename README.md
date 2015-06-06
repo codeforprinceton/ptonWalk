@@ -10,7 +10,7 @@ The goal of this repo to answer a basic question from the Mayor:
 ## Ideas for Data Usage
 Suggest some!
 
-[Collaborative GDoc | https://docs.google.com/document/d/1__fNmBh4hsyK-LsRpkj0DrmFNUGX8-QHwIp7VwVHMow/edit#]
+Collaborative GDoc - https://docs.google.com/document/d/1__fNmBh4hsyK-LsRpkj0DrmFNUGX8-QHwIp7VwVHMow/edit
 
 Some starting thoughts posted here...
 
