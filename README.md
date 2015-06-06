@@ -10,7 +10,8 @@ The goal of this repo to answer a basic question from the Mayor:
 ## Ideas for Data Usage
 Suggest some!
 
-Collaborative GDoc - https://docs.google.com/document/d/1__fNmBh4hsyK-LsRpkj0DrmFNUGX8-QHwIp7VwVHMow/edit
+Project Doc (editable) - https://docs.google.com/document/d/1__fNmBh4hsyK-LsRpkj0DrmFNUGX8-QHwIp7VwVHMow/edit
+Geo Data and Tools Doc (editable) - https://docs.google.com/document/d/1u9bW3koSrgCWq3L4Kb9MfLUuzEmHfHDw5cACgpms_Sc/edit?usp=sharing
 
 Some starting thoughts posted here...
 
