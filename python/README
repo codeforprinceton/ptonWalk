@@ -1,0 +1,9 @@
+This is a short Python example script using the OpenStreetMaps Python API (osmapi)
+, Shapely and Pandas to do the following:
+
+a. Use osmapi to generate a map for the Princeton area.
+b. Find all the parks using the 'leisure' tag and generate a list with names 
+c. Open csv (this repo) containing house geo data.
+d. Generate a bubble around the park boundaries based on assumed walking speed and time.
+e. find how many houses intersect each bubble using Shapely.intersects method.
+
